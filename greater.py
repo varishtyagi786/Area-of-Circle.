@@ -1,0 +1,5 @@
+num1=int(input('Enter first numbers: '))
+num2=int(input('Enter second numbers: '))
+if num1>num2:print('First is Greater Number.')
+elif num1==num2:print('Both are equal.')
+else:print('Second number is gretaer.')
